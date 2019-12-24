@@ -1,0 +1,25 @@
+body {
+  background-color: #90EE90;
+
+}
+
+img {
+  height: 100px;
+
+}
+
+table {
+  border-spacing: 0.5cm 1em;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
+
+.title{
+  color: #008000	;
+}
